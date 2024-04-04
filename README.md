@@ -8,9 +8,10 @@ Tailwind CSS will enable us to rapidly style our components using utility classe
 
 By combining the strengths of React and Tailwind CSS, we aim to deliver a high-quality web application tailored to the specific needs and preferences of Aeonaxy Technologies Private Limited. Our focus will be on creating an intuitive user interface that enhances usability and maximizes engagement, ultimately contributing to the success of Aeonaxy's digital presence.
 
-![Aeonaxy Web View](<https://github.com/abduldevlop/Assignment-for-Aeonaxy-Technologies-Private-Limited/blob/main/Screenshot%20(38).png>)
+![Aeonaxy Web View](https://github.com/abduldevlop/Aeonaxy---Technologies-private-limited-frontend-Assigment/blob/main/desktop-view.png)
 
-![Aeonaxy Mobile View](https://github.com/abduldevlop/Assignment-for-Aeonaxy-Technologies-Private-Limited/blob/main/Screenshot%202024-04-03%20151642.png)
+![Aeonaxy Mobile View](https://github.com/abduldevlop/Aeonaxy---Technologies-private-limited-frontend-Assigment/blob/main/mobile-view-2.png)
+![Aeonaxy Mobile View](https://github.com/abduldevlop/Aeonaxy---Technologies-private-limited-frontend-Assigment/blob/main/moble-view-1.png)
 
 ## Prerequisites
 
